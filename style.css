@@ -190,6 +190,7 @@ button.white {
     box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
     border: 1px solid #cce7d0;
     border-radius: 5px;
+    margin: 0 5px 10px;
 }
 
 #feature .fe-box img {
@@ -645,4 +646,9 @@ footer .copyright {
         justify-content: center;
         align-items: flex-start;
     }
+
+    #feature {
+        justify-content: center;
+    }
+
 }
